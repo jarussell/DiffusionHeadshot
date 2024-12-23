@@ -1,0 +1,12 @@
+#most recent diffusers on pypi is missing required fixes
+accelerate
+bitsandbytes
+diffusers @ git+https://github.com/huggingface/diffusers
+multidict
+pandas
+peft
+protobuf
+sentencepiece
+torch
+torchvision
+transformers
