@@ -9,6 +9,13 @@ QLoRA. The goal of this work was threefold:
 
 So this is an experiment in LoRA training with restricted resources.
 
+## Experiments
+
+Experiments is included near the top so that results can be viewed before
+diving into all of the ideas behind everything.
+
+* [Experiment 1](experiments/experiment1/README.md)
+
 ## Starting Point (Limitations)
 
 This work makes small modifications to [the LoRA flux quantization research example](https://github.com/huggingface/diffusers/tree/main/examples/research_projects/flux_lora_quantization).
